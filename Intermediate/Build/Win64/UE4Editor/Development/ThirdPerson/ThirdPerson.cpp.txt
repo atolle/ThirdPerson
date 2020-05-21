@@ -1,0 +1,2 @@
+C:\Development\ThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\ThirdPerson\Definitions.ThirdPerson.h
+C:\Development\ThirdPerson\Source\ThirdPerson\ThirdPerson.h

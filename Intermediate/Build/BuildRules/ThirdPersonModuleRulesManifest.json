@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Development\\ThirdPerson\\Source\\ThirdPerson\\ThirdPerson.Build.cs",
+		"C:\\Development\\ThirdPerson\\Source\\ThirdPerson.Target.cs",
+		"C:\\Development\\ThirdPerson\\Source\\ThirdPersonEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}

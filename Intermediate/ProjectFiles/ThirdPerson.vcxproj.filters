@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPerson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{70B33E56-2325-472A-9079-A798E6EE42D4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPersonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FE714D07-679D-43E5-8D51-49831691ECC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson">
+      <UniqueIdentifier>{F256C81C-B13E-4A35-9F4C-F95F288500B6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPerson\CustomActor.cpp">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\CustomActor.h">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPerson\SpherePawn.cpp">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\SpherePawn.h">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ThirdPerson\ThirdPerson.Build.cs">
+      <Filter>Source\ThirdPerson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPerson\ThirdPerson.cpp">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\ThirdPerson.h">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPerson\ThirdPersonCharacter.cpp">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\ThirdPersonCharacter.h">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPerson\ThirdPersonGameMode.cpp">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\ThirdPersonGameMode.h">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
